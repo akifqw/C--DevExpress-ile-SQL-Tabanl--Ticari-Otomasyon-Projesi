@@ -1,0 +1,11 @@
+Menü
+-------------
+Ürünler
+Stoklar
+Müşteriler
+Firmalar
+Personeller
+Giderler
+Kasa
+Notlar
+Hareketler
